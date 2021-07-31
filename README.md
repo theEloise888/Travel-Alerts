@@ -12,9 +12,13 @@ Clone this repo locally
 
 * In the server folder, find the .env file and edit the SERVER constant to SERVER=localhost.
 
+* Setup a free account on MongoDb.  
+
+* In the server folder, set the constant "DBURL" to your own MongoDb connection string, which will be provided under the option Connect > Connect Your Application.
+
 * In the client folder, find all component files and change GRAPHURL to http://localhost:5000/graphql.
 
-* To start the app, run node app on the Server folder and npm start on the Client folder
+* To start the app, run node app on the Server folder and npm start on the Client folder.
 
 
 
