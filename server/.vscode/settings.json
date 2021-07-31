@@ -1,0 +1,5 @@
+{
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "terminal.integrated.rendererType": "dom"
+}

@@ -1,0 +1,25 @@
+{
+  "short_name": "WWTA",
+  "name": "World Wide Travel Alerts App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "72x72 96x96 128x128 256x256",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "plane.png",
+      "type": "image/png",
+      "sizes": "18x18"
+    },
+    {
+      "src": "plane.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7f00ff",
+  "background_color": "#00aaff"
+}

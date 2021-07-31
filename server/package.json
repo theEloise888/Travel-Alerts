@@ -1,0 +1,30 @@
+{
+  "name": "case1",
+  "version": "1.0.0",
+  "description": "Info3139 Casestudy #1",
+  "author": "Eloise Dong Ying Lin",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "consola": "^2.15.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "got": "^11.8.1",
+    "graphql": "^15.5.0",
+    "heroku": "^7.51.0",
+    "heroku-cli": "^7.0.9",
+    "i": "^0.3.6",
+    "mongodb": "^3.6.3",
+    "nodemon": "^2.0.7",
+    "npm": "^7.6.3",
+    "request": "^2.88.2",
+    "yargs": "^16.2.0"
+  }
+}
