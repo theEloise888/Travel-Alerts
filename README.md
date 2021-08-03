@@ -2,7 +2,7 @@
 
 **Overview**
 
-* An app created to allow users to to view travel alerts by traveller, region and sub-region as well as to add an advisory for a traveller. 
+* An app created to allow users to view travel alerts by traveller, region and sub-region as well as to add an advisory for a traveller. 
 
 **Steps to run the app**
 
